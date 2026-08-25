@@ -1,0 +1,13 @@
+# Planillas privadas dentro de datos
+/datos/*.xlsx
+/datos/*.xls
+/datos/**/*.xlsx
+/datos/**/*.xls
+
+# Archivos temporales de Excel
+~$*.xlsx
+~$*.xls
+
+# Boletas en PDF
+/boletas/*.pdf
+/boletas/**/*.pdf
